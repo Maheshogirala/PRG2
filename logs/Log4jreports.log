@@ -44,3 +44,18 @@
 22:03:55.540 [main] INFO  TestCases.TC1_Login - * Username Enterd done *
 22:03:55.715 [main] INFO  TestCases.TC1_Login - * Password Enterd done *
 22:03:57.168 [main] INFO  TestCases.TC1_Login - * click on the login button *
+15:24:30.489 [main] INFO  TestCases.TC1_Login - **** Login Application Logs ***
+15:24:30.500 [main] INFO  TestCases.TC1_Login - **** Start the testcase login ***
+15:24:31.046 [main] INFO  TestCases.TC1_Login - * Username Enterd done *
+15:24:31.201 [main] INFO  TestCases.TC1_Login - * Password Enterd done *
+15:24:32.403 [main] INFO  TestCases.TC1_Login - * click on the login button *
+15:34:00.977 [main] INFO  TestCases.TC1_Login - **** Login Application Logs ***
+15:34:00.983 [main] INFO  TestCases.TC1_Login - **** Start the testcase login ***
+15:34:01.398 [main] INFO  TestCases.TC1_Login - * Username Enterd done *
+15:34:01.628 [main] INFO  TestCases.TC1_Login - * Password Enterd done *
+15:34:02.898 [main] INFO  TestCases.TC1_Login - * click on the login button *
+15:38:20.724 [main] INFO  TestCases.TC1_Login - **** Login Application Logs ***
+15:38:20.729 [main] INFO  TestCases.TC1_Login - **** Start the testcase login ***
+15:38:21.387 [main] INFO  TestCases.TC1_Login - * Username Enterd done *
+15:38:21.588 [main] INFO  TestCases.TC1_Login - * Password Enterd done *
+15:38:22.905 [main] INFO  TestCases.TC1_Login - * click on the login button *
